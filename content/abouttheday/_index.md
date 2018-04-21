@@ -27,7 +27,7 @@ The Netherlands gets lots of rain all year round; June is no exception. We’d a
 
 
 # How do I get to Karel 1? 
-Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2. From the train station, it’s a 20 minute walk. Several busses depart from the train station. 
+Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2. From the train station (Eindhoven Centraal Station), it’s a 20 minute walk. Several busses depart from the train station. 
 
 <iframe width="100%" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5yXyHQLZxkcR4lktXxAS_RA&key=AIzaSyBiu3g42TCvY9TVX3jbdA1RMbaMOomU_I0" allowfullscreen></iframe>
