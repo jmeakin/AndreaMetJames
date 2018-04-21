@@ -14,10 +14,10 @@ Guests are invited to arrive at or around 17.00. If you want to visit the museum
 
 Here's a general idea of the evening:
 
-17.00 |reception begins|drinks, snacks
-17.30 |Andrea & James arrive|bubbly!
-18.00 - 21.00 |buffet dinner served|toasts, speeches, &c.
-21.00 - late |dancing, &c. |late night snacks
+17.00 | reception begins | drinks, snacks
+17.30 | Andrea & James arrive | bubbly!
+18.00 - 21.00 | buffet dinner served | toasts, speeches, &c.
+21.00 - late | dancing, &c. | late night snacks
 
 
 Please join us at 17.00 on Friday, 22 June 2018 for dinner, toasts, and dancing. 
