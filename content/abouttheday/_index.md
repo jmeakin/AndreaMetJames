@@ -8,23 +8,18 @@ imageURL = "images/karel1bynight.jpg"
 +++
 <!--more-->
 # The reception
-The wedding reception will be held at Karel 1, the museum cafe of the Van AbbeMuseum of Modern and Contemporary Art in Eindhoven. 
-
-Guests are invited to arrive at or around 17.00. If you want to visit the museum, make sure to arrive earlier as it closes at 17.00.
+The wedding reception will be held at Karel 1, the museum cafe of the Van AbbeMuseum of Modern and Contemporary Art in Eindhoven. Guests are invited to arrive at or around 17.00. If you want to visit the museum, make sure to arrive earlier as it closes at 17.00.
 
 Here's a general idea of the evening:
-
 <p align="center">
-17.00 - reception begins: drinks, snacks<br>
-17.30 - Andrea & James arrive: bubbly!<br>
-18.00 - 21.00 - buffet dinner served: toasts, speeches, &c.<br>
-21.00 - late - dancing, &c.
+  <b>17.00</b><br>reception begins: drinks, snacks<br>
+  <b>17.30</b><br>Andrea & James arrive: bubbly!<br>
+  <b>18.00 - 21.00</b><br>buffet dinner served: toasts, speeches, &c.<br>
+  <b>21.00 - late</b><br>dancing, &c.
 </p>
 
-Please join us at 17.00 on Friday, 22 June 2018 for dinner, toasts, and dancing. 
 
-If you have not yet completed the [RSVP form](/rsvp), please do so. We'll be in touch with questions about dietary restrictions in the next few weeks. 
-
+<b>If you have not yet completed the [RSVP form](/rsvp), please do so!</b> We'll be in touch with questions about dietary restrictions in the next few weeks. 
 
 
 # What should I wear?
