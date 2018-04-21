@@ -7,7 +7,7 @@ imageURL = "images/karel1bynight.jpg"
 
 +++
 <!--more-->
-# The reception
+# Reception
 The wedding reception will be held at Karel 1, the museum cafe of the Van AbbeMuseum of Modern and Contemporary Art in Eindhoven. Guests are invited to arrive at or around 17.00. If you want to visit the museum, make sure to arrive earlier as it closes at 17.00.
 
 # Rough timeline
