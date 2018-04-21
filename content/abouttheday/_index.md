@@ -12,10 +12,10 @@ The wedding reception will be held at Karel 1, the museum cafe of the Van AbbeMu
 
 Here's a general idea of the evening:
 <p align="center">
-  <b>17.00</b><br>reception begins: drinks, snacks<br>
+  <b>17.00</b><br>Reception begins: drinks, snacks<br>
   <b>17.30</b><br>Andrea & James arrive: bubbly!<br>
-  <b>18.00 - 21.00</b><br>buffet dinner served: toasts, speeches, &c.<br>
-  <b>21.00 - late</b><br>dancing, &c.
+  <b>18.00 - 21.00</b><br>Buffet dinner served: toasts, speeches, &c.<br>
+  <b>21.00 - late</b><br>Dancing, &c.
 </p>
 
 
@@ -28,8 +28,6 @@ The Netherlands gets lots of rain all year round; June is no exception. We’d a
 
 # How do I get to Karel 1? 
 Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2. From the train station, it’s a 20 minute walk. Several busses depart from the train station. 
-
-If you're coming from the ceremony in Nijmegen, you can travel with us in the bus we've chartered. The bus will leave from Nijmegen at 15.00 and will arrive in Eindhoven at the Central Station around 16.00. You'll have about an hour to go to your hotel, visit the museum, or walk around Eindhoven before the reception starts at 17.00.
 
 <iframe width="100%" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5yXyHQLZxkcR4lktXxAS_RA&key=AIzaSyBiu3g42TCvY9TVX3jbdA1RMbaMOomU_I0" allowfullscreen></iframe>
