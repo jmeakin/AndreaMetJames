@@ -24,7 +24,7 @@ The Netherlands gets lots of rain all year round; June is no exception. We’d a
 # Gifts
 
 We're not expecting any of you to get us gifts; many of you are travelling from far and wide to celebrate with us, we cannot wait to see you all, and this alone is more than enough. 
-We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can treat us to something nice during our honeymoon. 
+We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can make a donation to charity or treat us to something nice during our honeymoon. 
 
 # How do I get to Karel 1? 
 Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2. From the train station (Eindhoven Centraal Station), it’s a 20 minute walk. Several busses depart from the train station. 
