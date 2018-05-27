@@ -33,6 +33,7 @@ Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5yXyHQLZxkcR4lktXxAS_RA&key=AIzaSyBiu3g42TCvY9TVX3jbdA1RMbaMOomU_I0" allowfullscreen></iframe>
 <br>
 
+# Gifts
 
-
-
+We're not expecting any of you to get us gifts; many of you are travelling from far and wide to celebrate with us, we cannot wait to see you all, and this alone is more than enough. 
+We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can treat us to something nice during our honeymoon.  
