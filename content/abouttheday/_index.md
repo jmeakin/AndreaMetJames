@@ -18,13 +18,13 @@ The wedding reception will be held at Karel 1, the museum cafe of the Van AbbeMu
   <b>21.00 - late</b><br>Dancing, &c.
 </p>
 
-# RSVP
-<b>If you have not yet completed the [RSVP form](/rsvp), please do so!</b> We'll be in touch with questions about dietary restrictions in the next few weeks. 
-
-
 # What should I wear?
 The Netherlands gets lots of rain all year round; June is no exception. We’d advise bringing a rain jacket or umbrella for getting to and from the museum, but the reception will be indoors. We'll be quite dressed up, and you're welcome to do the same, but wear clothes and shoes you are comfortable in and can dance in. All guests are welcome to and wear white, black, or any color in between!
 
+# Gifts
+
+We're not expecting any of you to get us gifts; many of you are travelling from far and wide to celebrate with us, we cannot wait to see you all, and this alone is more than enough. 
+We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can treat us to something nice during our honeymoon. 
 
 # How do I get to Karel 1? 
 Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2. From the train station (Eindhoven Centraal Station), it’s a 20 minute walk. Several busses depart from the train station. 
@@ -32,8 +32,3 @@ Karel 1 and the Van AbbeMuseum are in the center of Eindhoven at Stratumsedijk 2
 <iframe width="100%" height="450" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ5yXyHQLZxkcR4lktXxAS_RA&key=AIzaSyBiu3g42TCvY9TVX3jbdA1RMbaMOomU_I0" allowfullscreen></iframe>
 <br>
-
-# Gifts
-
-We're not expecting any of you to get us gifts; many of you are travelling from far and wide to celebrate with us, we cannot wait to see you all, and this alone is more than enough. 
-We have been living together for a few years and have all the things we need, but if you absolutely have to get us something, then there's a [small registry here](https://thankfulregistry.com/andreametjames) where you can treat us to something nice during our honeymoon.  
